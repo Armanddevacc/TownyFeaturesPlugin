@@ -1,0 +1,10 @@
+name: TownyFeatures
+version: 1.0.0
+author: doctfr
+main: me.TownyFeatures.fr.Main
+api-version: 1.13
+commands:
+  reputation:
+    description: You can get you reputation by doing this
+  rep:
+    description: You can get you reputation by doing this
