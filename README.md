@@ -1,7 +1,7 @@
 # 🏙️ Towny Features Plugin - Reputation System for Towny  
 
 ## ⚠️ Project Status: Outdated  
-This project was developed **over 3 years ago** and is now **outdated**. Some dependencies or functionalities may no longer work with the latest **Minecraft versions** or **Towny updates**. Contributions are welcome if anyone wants to **update or maintain** this plugin.  
+This project was developed **over 5 years ago** and is now **outdated**. Some dependencies or functionalities may no longer work with the latest **Minecraft versions** or **Towny updates**. Contributions are welcome if anyone wants to **update or maintain** this plugin.  
 
 ---
 
